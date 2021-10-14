@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![iblogc's GitHub stats](https://github-readme-stats.vercel.app/api?username=iblogc&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iblogc&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iblogc&layout=compact&theme=cobalt)](https://me.iblogc.com/)
 
 
