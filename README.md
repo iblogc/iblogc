@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![iblogc's GitHub stats](https://github-readme-stats.vercel.app/api?username=iblogc&show_icons=true&theme=cobalt)
+[![iblogc's GitHub stats](https://github-readme-stats.vercel.app/api?username=iblogc&show_icons=true&theme=cobalt)](https://me.iblogc.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iblogc&layout=compact&theme=cobalt)](https://me.iblogc.com/)
 
